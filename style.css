@@ -1,0 +1,27 @@
+body{
+    background-color:plum;
+    border:5px solid purple;
+}
+.funworld{
+    border-radius: 100px;
+}
+.information_of_pollution{
+    background-color:  #ff8080;
+}
+.me{
+    height: 200px;
+    width: 200px;
+    border-radius: 120px;
+    border: 3px solid pink;
+    border-top: purple;
+}
+.copy_right_footer{
+    font-size: 17px;
+    background-color: pink;
+    color:purple;
+    bottom: 0px;
+    width: 100%;
+    line-height: 2;
+    position:fixed;
+    box-shadow: 5px 5px 5px lightseagreen;
+}
